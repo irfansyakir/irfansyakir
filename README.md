@@ -27,6 +27,4 @@ I'm a passionate tech enthusiast, and my journey in tech has been driven by a cu
 
 ---
 
----
-
-Feel free to connect with me or check out my repositories. Let’s build something amazing together! 🚀
+Feel free to connect with me or check out my repositories! 🚀
