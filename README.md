@@ -11,12 +11,12 @@ I'm a passionate tech enthusiast, and my journey in tech has been driven by a cu
 ---
 
 ### 🛠️ My Tech Stack:
-- **Languages:** Python, JavaScript, Java, C, C++, Dart, SQL, Bash/Shell, PHP 
+- **Languages:** Python, JavaScript, Java, C, C++, Dart, SQL, Bash/Shell, zsh, PHP 
 - **Frontend:** HTML, CSS, React.js, Bootstrap
 - **Databases:** MySQL, Firebase
 - **Frameworks & Libraries:** React, React Native, Flutter, XAMPP
-- **DevOps:** Terraform, CI/CD Pipelines
-- **Tools & Platforms:** Git, GitHub, Terraform Cloud, VS Code, Digital Ocean 
+- **DevOps:** Terraform, CI/CD Pipelines, GitHub Workflows, GitLab CI
+- **Tools & Platforms:** Git, GitHub, Terraform Cloud, VS Code, Digital Ocean, AWS, Azure
 - **Other Interests:** Cloud Computing, Machine Learning, Data Science, UI/UX, Branding and Marketing
 
 ---
