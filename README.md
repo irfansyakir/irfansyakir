@@ -1,30 +1,28 @@
 ### Hi there 👋, I'm Irfan!
-
-I'm a passionate tech enthusiast, and my journey in tech has been driven by a curiosity to explore, build, and solve problems with innovative solutions.
+I'm a digital innovator who bridges technical development with design thinking and business strategy.
 
 ---
-
 ### 🚀 About Me:
-- 🔭 I’m passionate about building impactful projects and collaborating with like-minded individuals.
-- 💡 I enjoy learning new technologies and constantly improving my skill set.
+- 🔭 I build solutions that deliver both technical excellence and business value
+- 💡 I combine software engineering, DevOps, UI/UX design, and business analysis to create comprehensive digital experiences
+- 🎓 Information Engineering & Media student at NTU (graduating 2025)
 
 ---
-
-### 🛠️ My Tech Stack:
-- **Languages:** Python, JavaScript, Java, C, C++, Dart, SQL, Bash/Shell, zsh, PHP 
-- **Frontend:** HTML, CSS, React.js, Bootstrap
-- **Databases:** MySQL, Firebase
-- **Frameworks & Libraries:** React, React Native, Flutter, XAMPP
-- **DevOps:** Terraform, CI/CD Pipelines, GitHub Workflows, GitLab CI
-- **Tools & Platforms:** Git, GitHub, Terraform Cloud, VS Code, Digital Ocean, AWS, Azure
-- **Other Interests:** Cloud Computing, Machine Learning, Data Science, UI/UX, Branding and Marketing
+### 🛠️ My Expertise:
+- **Software Engineering:** Python, JavaScript, Java, C++, Dart, React, Flutter, Object-Oriented Programming
+- **DevOps & Infrastructure:** Terraform, CI/CD Pipelines, GitHub Actions, GitLab CI, AWS, Azure, Digital Ocean
+- **Design & User Experience:** UI/UX Design, Wireframing, Prototyping, User Research, Visual Communication
+- **Business & Marketing:** Requirements Analysis, Process Optimization, Brand Strategy, Data Visualization
 
 ---
+### 🏆 Recent Achievements:
+- Led branding strategy for NTU Escendo 2025 as VP of Marketing, increasing participation by 30%
+- DevOps Intern at ST Engineering optimizing infrastructure deployment with Terraform
+- Final Year Project: Fourier Forge - educational app combining complex algorithms with intuitive UI
 
+---
 ### 📫 Connect with Me:
 - 🌐 Portfolio: [irfansyakir.com](https://irfansyakir.com)  
 - 💼 LinkedIn: [linkedin.com/in/irfansyakir30](https://linkedin.com/in/irfansyakir30)  
-
 ---
-
-Feel free to connect with me or check out my repositories! 🚀
+Available for new opportunities starting August 2025! 🚀
