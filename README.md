@@ -25,4 +25,4 @@ I'm a digital innovator who bridges technical development with design thinking a
 - 🌐 Portfolio: [irfansyakir.com](https://irfansyakir.com)  
 - 💼 LinkedIn: [linkedin.com/in/irfansyakir30](https://linkedin.com/in/irfansyakir30)  
 ---
-Available for new opportunities starting August 2025! 🚀
+
